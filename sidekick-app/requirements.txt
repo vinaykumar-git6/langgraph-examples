@@ -1,0 +1,40 @@
+# Core LangGraph and LangChain dependencies
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-experimental>=0.1.0
+langchain-core>=0.2.0
+
+# OpenAI integration
+openai>=1.0.0
+
+# Web interface
+gradio>=4.0.0
+
+# Web automation
+playwright>=1.40.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.0.0
+
+# Type hints
+typing-extensions>=4.8.0
+
+# Search APIs
+google-search-results>=2.4.0
+
+# Wikipedia integration
+wikipedia>=1.4.0
+
+# File operations
+pathlib2>=2.3.0
+
+# Async support
+asyncio-mqtt>=0.16.0 
